@@ -5,7 +5,7 @@ Persuing Computer Science Undergrad from SRM Institute of Technology, Chennai
 
 ### Languages
 * Java
-* JavaScript (React.js, Node.js)
+* JavaScript
 * Python
 * C/C++
 
